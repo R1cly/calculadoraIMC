@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 class Ventana1:
     def __init__(self, master):
         self.master = master
